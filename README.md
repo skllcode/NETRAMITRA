@@ -255,7 +255,7 @@ False positives and false negatives can occur. Do not rely solely on this tool f
 - GitHub: [@KARTIK-ALTF4](https://github.com/KARTIK-ALTF4)
 
 **Shrujal Kakade**
-- LinkedIn: (www.linkedin.com/in/shrujal-kakade)
+- LinkedIn: (www.linkedin.com/in/shrujal-kakade10)
 - GitHub: (https://github.com/skllcode)
 
 Feel free to reach out for collaborations or opportunities!
