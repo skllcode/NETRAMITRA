@@ -2,7 +2,7 @@
 
 A complete web-based cataract detection system using Deep Learning (EfficientNet-B0) with Grad-CAM visualization, built with Flask and PyTorch.
 
-**Author:** Kartik Koul
+**Author:** Kartik Koul And Shrujal Kakade
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
@@ -239,6 +239,7 @@ False positives and false negatives can occur. Do not rely solely on this tool f
 ## 👨‍💻 Authors
 
 - **Kartik Koul** - Initial work
+- **Shrujal Kakade** - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -252,6 +253,10 @@ False positives and false negatives can occur. Do not rely solely on this tool f
 **Kartik Koul**
 - LinkedIn: [Kartik Koul](https://www.linkedin.com/in/kartik-koul)
 - GitHub: [@KARTIK-ALTF4](https://github.com/KARTIK-ALTF4)
+
+**Shrujal Kakade**
+- LinkedIn: (www.linkedin.com/in/shrujal-kakade)
+- GitHub: (https://github.com/skllcode)
 
 Feel free to reach out for collaborations or opportunities!
 
